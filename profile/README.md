@@ -4,6 +4,6 @@
 
 <img src="https://maiti-labs.github.io/logo.png" width="72" alt="Maiti Labs logo" />
 
-Research in sustainable engineering across industries. From weather foundation models to aerospace, materials, energy, and manufacturing.
+**Climate research, made accessible.** Open research across industries, from weather foundation models to aerospace, materials, energy, and manufacturing.
 
 </div>
