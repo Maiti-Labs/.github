@@ -4,6 +4,6 @@
 
 <img src="https://maiti-labs.github.io/logo.png" width="72" alt="Maiti Labs logo" />
 
-We are a research organization studying the **climate impact of emerging technologies**, from energy systems to artificial intelligence, and deep-diving every sector where innovation remakes the planet.
+A research lab making **climate research accessible**, from weather models to satellite Earth observation that enables climate action.
 
 </div>
